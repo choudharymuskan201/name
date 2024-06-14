@@ -1,0 +1,746 @@
+.nav {
+    width: 100%;
+  }
+  .co {
+    position: absolute;
+    top: 30px;
+    position: absolute;
+    left: 100px;
+  }
+  @media (max-width:400px) {
+    .co{margin-left: 200px;}
+  }
+  
+  .head {
+    width: 100%;
+    margin-top: -40px;
+  }
+  .div {
+    background-color: white;
+    height: 500px;
+    width: 460px;
+    position: absolute;
+    top: 150px;
+    position: absolute;
+    left: 300px;
+  }
+  
+  .Busniess {
+    position: absolute;
+    top: 200px;
+    position: absolute;
+    left: 400px;
+    font-size: 50px;
+  }
+  .it {
+    position: absolute;
+    top: 430px;
+    position: absolute;
+    left: 400px;
+    font-size: 19px;
+  }
+  .contact {
+    position: absolute;
+    left: 330px;
+    position: absolute;
+    top: 530px;
+    font-size: 30px;
+    border-radius: 30px;
+    height: 50px;
+    width: 160px;
+    color: white;
+    background-color: green;
+  }
+  .readme {
+    position: absolute;
+    left: 540px;
+    position: absolute;
+    top: 530px;
+    font-size: 30px;
+    border-radius: 30px;
+    height: 50px;
+    width: 160px;
+    color: white;
+    background-color: black;
+  }
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+  .nav1 {
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 595px;
+  }
+  
+  .checkbox {
+    position: absolute;
+    left: 850px;
+    position: absolute;
+    top: 850px;
+  }
+  .about {
+    position: absolute;
+    left: 400px;
+  }
+  .hr {
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+  }
+  .muskan {
+    background: 140px;
+    position: absolute;
+    left: 760px;
+    width: 15px;
+    background-color: white;
+    position: absolute;
+    bottom: 50px;
+    height: 15px;
+    border-radius: 100px;
+  }
+  .muskan1 {
+    background: 140px;
+    position: absolute;
+    left: 780px;
+    width: 15px;
+    background-color: white;
+    position: absolute;
+    bottom: 50px;
+    height: 15px;
+    border-radius: 100px;
+  }
+  .muskan2 {
+    background: 140px;
+    position: absolute;
+    left: 800px;
+    width: 15px;
+    background-color: white;
+    position: absolute;
+    bottom: 50px;
+    height: 15px;
+    border-radius: 100px;
+  }
+  .muskan3 {
+    background: 140px;
+    position: absolute;
+    left: 820px;
+    width: 15px;
+    background-color: black;
+    position: absolute;
+    bottom: 50px;
+    height: 15px;
+    border-radius: 100px;
+  }
+  .muskan4 {
+    background: 140px;
+    position: absolute;
+    left: 840px;
+    width: 15px;
+    background-color: white;
+    position: absolute;
+    bottom: 50px;
+    height: 15px;
+    border-radius: 100px;
+  }
+  .about {
+    position: absolute;
+    top: 150px;
+    font-size: 40px;
+  }
+  .hr {
+    width: 200px;
+    position: absolute;
+    bottom: -80px;
+    position: absolute;
+    left: 590px;
+    border: 1px solid black;
+  }
+  .a {
+    position: absolute;
+    top: 230px;
+    position: absolute;
+    left: 400px;
+  }
+  .img {
+    position: absolute;
+    top: 940px;
+    position: absolute;
+    left: 320px;
+    z-index: 1;
+    width: 610px;
+  }
+  .there {
+    position: absolute;
+    top: 1000px;
+    position: absolute;
+    left: 1000px;
+  }
+  .box {
+    height: 450px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    top: 900px;
+    position: absolute;
+    left: 290px;
+    position: absolute;
+    top: 900px;
+  }
+  .readmore {
+    background-color: black;
+    position: absolute;
+    top: 1200px;
+    position: absolute;
+    left: 1300px;
+    height: 50px;
+    width: 130px;
+    border-radius: 40px;
+    font-size: 25px;
+    color: wheat;
+  }
+  .we {
+    position: absolute;
+    top: 1400px;
+    position: absolute;
+    left: 350px;
+    font-size: 40px;
+  }
+  .he {
+    width: 200px;
+    position: absolute;
+    top: 1430px;
+    position: absolute;
+    left: 590px;
+    border: 1px solid black;
+  }
+  .service {
+    background-color: brown;
+    position: absolute;
+    top: 1600px;
+    height: 700px;
+    width: 100%;
+    z-index: -1;
+  }
+  .is {
+    position: absolute;
+    top: 1480px;
+    position: absolute;
+    left: 350px;
+  }
+  .icon1 {
+    position: absolute;
+    top: 1600px;
+    position: absolute;
+    left: 350px;
+  }
+  .icon2 {
+    position: absolute;
+    top: 1600px;
+    position: absolute;
+    left: 700px;
+  }
+  .icon3 {
+    position: absolute;
+    top: 1600px;
+    position: absolute;
+    left: 1100px;
+  }
+  .Selection {
+    position: absolute;
+    top: 1700px;
+    position: absolute;
+    left: 300px;
+  }
+  .are {
+    position: absolute;
+    top: 1750px;
+    position: absolute;
+    left: 300px;
+  }
+  .re {
+    position: absolute;
+    top: 1699px;
+    position: absolute;
+    left: 650px;
+  }
+  .se {
+    position: absolute;
+    top: 1750px;
+    position: absolute;
+    left: 650px;
+  }
+  .plan {
+    position: absolute;
+    top: 1700px;
+    position: absolute;
+    left: 1000px;
+  }
+  .bu {
+    position: absolute;
+    top: 1750px;
+    position: absolute;
+    left: 1000px;
+  }
+  .icon4 {
+    position: absolute;
+    top: 1900px;
+    position: absolute;
+    left: 350px;
+  }
+  .icon5 {
+    position: absolute;
+    top: 1900px;
+    position: absolute;
+    left: 800px;
+  }
+  .icon6 {
+    position: absolute;
+    top: 1900px;
+    position: absolute;
+    left: 1100px;
+  }
+  .tr {
+    position: absolute;
+    top: 2000px;
+    position: absolute;
+    left: 300px;
+  }
+  .an {
+    position: absolute;
+    top: 2050px;
+    position: absolute;
+    left: 300px;
+  }
+  .ac {
+    position: absolute;
+    top: 2000px;
+    position: absolute;
+    left: 650px;
+  }
+  .ad {
+    position: absolute;
+    top: 2050px;
+    position: absolute;
+    left: 650px;
+  }
+  .ma {
+    position: absolute;
+    top: 2000px;
+    position: absolute;
+    left: 1000px;
+  }
+  .mg {
+    position: absolute;
+    top: 2050px;
+    position: absolute;
+    left: 1000px;
+  }
+  .blog {
+    position: absolute;
+    top: 2400px;
+    position: absolute;
+    left: 300px;
+    height: 300px;
+    width: 500px;
+  }
+  .grow {
+    position: absolute;
+    top: 2450px;
+    position: absolute;
+    left: 850px;
+  }
+  .new {
+    position: absolute;
+    top: 2600px;
+    position: absolute;
+    left: 850px;
+  }
+  .button {
+    position: absolute;
+    top: 2700px;
+    position: absolute;
+    left: 1150px;
+    font-size: 25px;
+    text-align: center;
+    width: 150px;
+    background-color: black;
+    color: white;
+  }
+  .our {
+    position: absolute;
+    top: 2800px;
+    position: absolute;
+    left: 500px;
+    font-size: 30px;
+  }
+  .follow {
+    position: absolute;
+    top: 2900px;
+    position: absolute;
+    left: 300px;
+    height: 400px;
+    width: 1000px;
+  }
+  .play {
+    position: absolute;
+    top: 3050px;
+    position: absolute;
+    left: 750px;
+  }
+  .see {
+    position: absolute;
+    top: 3350px;
+    position: absolute;
+    left: 700px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+  }
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+  .con {
+    position: absolute;
+    top: 3400px;
+    width: 1630px;
+    position: absolute;
+    left: 20px;
+  }
+  .get {
+    position: absolute;
+    top: 3500px;
+    position: absolute;
+    left: 300px;
+    color: white;
+  }
+  .ht {
+    position: absolute;
+    left: 500px;
+    position: absolute;
+    top: 3520px;
+    width: 150px;
+  }
+  .majority {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 3550px;
+    color: white;
+  }
+  .full {
+    height: 70px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    top: 3600px;
+    position: absolute;
+    left: 300px;
+  }
+  .phone {
+    height: 70px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    top: 3700px;
+    position: absolute;
+    left: 300px;
+  }
+  .email {
+    height: 70px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    top: 3800px;
+    position: absolute;
+    left: 300px;
+  }
+  .message {
+    height: 150px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    top: 3890px;
+    position: absolute;
+    left: 300px;
+  }
+  .send {
+    height: 40px;
+    width: 80px;
+    background-color: green;
+    position: absolute;
+    top: 4050px;
+    position: absolute;
+    left: 300px;
+  }
+  .map {
+    width: 500px;
+    height: 250px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 3600px;
+    position: absolute;
+    left: 750px;
+  }
+  .test {
+    position: absolute;
+    left: 700px;
+    position: absolute;
+    top: 4200px;
+  }
+  .some {
+    position: absolute;
+    left: 600px;
+    position: absolute;
+    top: 4250px;
+  }
+  .jonimo {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4400px;
+    color: green;
+  }
+  .mark {
+    position: absolute;
+    left: 850px;
+    position: absolute;
+    top: 4400px;
+    color: green;
+  }
+  .line1 {
+    width: 430px;
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4430px;
+  }
+  .line2 {
+    width: 430px;
+    position: absolute;
+    left: 850px;
+    position: absolute;
+    top: 4430px;
+  }
+  .quick {
+    position: absolute;
+    left: 580px;
+    position: absolute;
+    top: 4400px;
+  }
+  .quick1 {
+    position: absolute;
+    left: 1130px;
+    position: absolute;
+    top: 4400px;
+  }
+  .lpsum {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4450px;
+  }
+  .lpsum1 {
+    position: absolute;
+    left: 850px;
+    position: absolute;
+    top: 4450px;
+  }
+  .button1 {
+    position: absolute;
+    left: 720px;
+    position: absolute;
+    top: 4700px;
+    background-color: black;
+    border-radius: 15px;
+    height: 15px;
+    width: 20px;
+  }
+  .button2 {
+    position: absolute;
+    left: 750px;
+    position: absolute;
+    top: 4700px;
+    background-color: green;
+    border-radius: 15px;
+    height: 15px;
+    width: 50px;
+  }
+  .button3 {
+    position: absolute;
+    left: 810px;
+    position: absolute;
+    top: 4700px;
+    background-color: black;
+    border-radius: 15px;
+    height: 15px;
+    width: 20px;
+  }
+  .black {
+    height: 500px;
+    width: 100%;
+    background-color: rgb(9, 2, 2);
+    position: absolute;
+    top: 4800px;
+  }
+  .location {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4850px;
+  }
+  .location1 {
+    position: absolute;
+    left: 320px;
+    position: absolute;
+    top: 4850px;
+    color: white;
+  }
+  .call {
+    position: absolute;
+    left: 700px;
+    position: absolute;
+    top: 4850px;
+  }
+  .call1 {
+    position: absolute;
+    left: 730px;
+    position: absolute;
+    top: 4850px;
+    color: white;
+  }
+  .mail {
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 4850px;
+  }
+  .demo {
+    position: absolute;
+    left: 1130px;
+    position: absolute;
+    top: 4850px;
+    color: white;
+  }
+  .about {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4900px;
+    color: white;
+  }
+  .about1 {
+    position: absolute;
+    left: 300px;
+    position: absolute;
+    top: 4990px;
+    color: white;
+  }
+  .link {
+    position: absolute;
+    left: 700px;
+    position: absolute;
+    top: 4900px;
+    color: white;
+  }
+  .link1 {
+    position: absolute;
+    left: 700px;
+    position: absolute;
+    top: 4990px;
+    color: white;
+  }
+  .Subscribe {
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 4900px;
+    color: white;
+  }
+  .your {
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 4990px;
+    color: white;
+  }
+  .enter {
+    width: 300px;
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 5030px;
+    color: white;
+  }
+  .subscribe1 {
+    color: green;
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 5050px;
+  }
+  .twitter {
+    color: green;
+    position: absolute;
+    left: 1100px;
+    position: absolute;
+    top: 5120px;
+  }
+  .instagram {
+    color: green;
+    position: absolute;
+    left: 1150px;
+    position: absolute;
+    top: 5120px;
+  }
+  .you {
+    color: green;
+    position: absolute;
+    left: 1200px;
+    position: absolute;
+    top: 5120px;
+  }
+  .in {
+    color: green;
+    position: absolute;
+    left: 1250px;
+    position: absolute;
+    top: 5120px;
+  }
+  .src {
+    color: green;
+    position: absolute;
+    left: 1300px;
+    position: absolute;
+    top: 5120px;
+  }
+  .copy {
+    color: white;
+    position: absolute;
+    left: 600px;
+    position: absolute;
+    top: 5200px;
+  }
+  .home1 {
+    position: absolute;
+    bottom: 850px;
+    list-style: none;
+    display: flex;
+    margin-left: 300px;
+    position: absolute;
+    left: 90px;
+  }
+  .home1 li {
+    margin-left: 70px;
+  }
+  .search {
+    margin-left: 90px;
+  }
+  
